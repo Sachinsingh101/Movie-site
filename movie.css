@@ -1,0 +1,10 @@
+*{margin:0px;padding: 0px;color:white;}
+body{margin:0px;padding:0px;background: black;color:white;}
+.menubar{background:linear-gradient(to right,rgb(209, 179, 9),rgb(238, 223, 141));}
+.menulist{display: flex; list-style: none;font-size: 150%;}
+.menulist li{padding: 20px;}
+.menulist li a{text-decoration: none;color:black;}
+.logo{border: 1px solid rgb(209, 179, 9);padding: 10px;border-radius: 6px;box-shadow: 2px 2px 5px;background: linear-gradient(to right,rgb(194, 166, 12),rgb(235, 217, 115));}
+.hero2{position: absolute;}
+.imgheight{width:250px;height:auto;}
+.name{background:rgba(0, 0, 0, 0.432);}
